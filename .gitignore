@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+env/
+venv/
+.idea/
+.vscode/
+.vercel
+node_modules/
+*.log
